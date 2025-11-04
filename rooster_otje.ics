@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-21-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:VRIJ
 UID:2025-11-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-24-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1041.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1041\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1041.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1041\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251105T134200Z
 DTSTART:20251105T052300Z
 SUMMARY:V1041
 UID:2025-11-05-V1041@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1713.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1713\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1713.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1713\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251108T133200Z
 DTSTART:20251108T061300Z
 SUMMARY:V1713
 UID:2025-11-08-V1713@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/420.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0420\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/420.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0420\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251113T192000Z
 DTSTART:20251113T131100Z
 SUMMARY:L0420
@@ -42,12 +42,12 @@ UID:2025-11-13-L0420@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:snip
 UID:2025-11-17-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1035.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1035\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1035.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1035\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251103T131300Z
 DTSTART:20251103T051000Z
 SUMMARY:V1035
@@ -55,42 +55,42 @@ UID:2025-11-03-V1035@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251116
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:VRIJ
 UID:2025-11-16-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-06-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251122
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-22-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-09-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-25-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251118
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:snip
 UID:2025-11-18-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/95.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/code95 theorie in Elst\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/95.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/code95 theorie in Elst\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251104T151500Z
 DTSTART:20251104T071500Z
 SUMMARY:code95 theorie in Elst
@@ -98,25 +98,25 @@ UID:2025-11-04-code95 theorie in Elst@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-01-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-20-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/440.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0440\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/440.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0440\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251112T002100Z
 DTSTART:20251111T155600Z
 SUMMARY:L0440
 UID:2025-11-11-L0440@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1021.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1021\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1021.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1021\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251107T120800Z
 DTSTART:20251107T045000Z
 SUMMARY:V1021
@@ -124,25 +124,25 @@ UID:2025-11-07-V1021@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:snip
 UID:2025-11-19-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251123
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-23-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/426.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0426\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/426.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0426\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251112T232000Z
 DTSTART:20251112T145800Z
 SUMMARY:L0426
 UID:2025-11-12-L0426@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1017.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1017\n\nLaatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/1017.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1017\n\nLaatst bijgewerkt om 12:15 uur op 04-11-2025
 DTEND:20251110T121500Z
 DTSTART:20251110T044800Z
 SUMMARY:V1017
@@ -150,13 +150,13 @@ UID:2025-11-10-V1017@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-14-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:Laatst bijgewerkt om 09:13 uur op 04-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:15 uur op 04-11-2025
 SUMMARY:uit
 UID:2025-11-02-uit@rooster-script.local
 END:VEVENT
