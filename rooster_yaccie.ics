@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/416.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/416.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251113T184300Z
 DTSTART:20251113T123800Z
 SUMMARY:L0416
@@ -10,54 +10,54 @@ UID:2025-11-13-L0416@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/461.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/461.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251111T162900Z
 DTSTART:20251111T085500Z
 SUMMARY:D0461
 UID:2025-11-11-D0461@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/439.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/439.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251118T133500Z
 DTSTART:20251118T051600Z
 SUMMARY:V0439
 UID:2025-11-18-V0439@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/417.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/417.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251106T123600Z
 DTSTART:20251106T043700Z
 SUMMARY:V0417
 UID:2025-11-06-V0417@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3620.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3620.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251122T211400Z
 DTSTART:20251122T141600Z
 SUMMARY:L3620
 UID:2025-11-22-L3620@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/455.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/455.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251119T153700Z
 DTSTART:20251119T074200Z
 SUMMARY:D0455
 UID:2025-11-19-D0455@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/464.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/464.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251125T181400Z
 DTSTART:20251125T095000Z
 SUMMARY:T0464
 UID:2025-11-25-T0464@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/411.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/411.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251127T112800Z
 DTSTART:20251127T042700Z
 SUMMARY:V0411
@@ -65,46 +65,46 @@ UID:2025-11-27-V0411@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251116
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-16-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-24-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/419.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/419.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251107T120600Z
 DTSTART:20251107T044100Z
 SUMMARY:V0419
 UID:2025-11-07-V0419@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3704.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3704.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251123T231800Z
 DTSTART:20251123T145500Z
 SUMMARY:L3704
 UID:2025-11-23-L3704@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/413.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/413.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251120T124900Z
 DTSTART:20251120T042800Z
 SUMMARY:V0413
 UID:2025-11-20-V0413@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3601.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/3601.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251108T134000Z
 DTSTART:20251108T053100Z
 SUMMARY:V3601
 UID:2025-11-08-V3601@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/95.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/95.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251104T151500Z
 DTSTART:20251104T071500Z
 SUMMARY:code95 theorie in Elst
@@ -112,32 +112,32 @@ UID:2025-11-04-code95 theorie in Elst@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-09-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-05-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/405.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/405.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251117T123600Z
 DTSTART:20251117T041100Z
 SUMMARY:V0405
 UID:2025-11-17-V0405@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/466.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/466.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251110T182300Z
 DTSTART:20251110T111800Z
 SUMMARY:T0466
 UID:2025-11-10-T0466@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/466.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/466.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251112T182300Z
 DTSTART:20251112T111800Z
 SUMMARY:T0466
@@ -145,18 +145,18 @@ UID:2025-11-12-T0466@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-01-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-21-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/451.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/451.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251126T141900Z
 DTSTART:20251126T055600Z
 SUMMARY:V0451
@@ -164,12 +164,12 @@ UID:2025-11-26-V0451@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:ATV
 UID:2025-11-14-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/476.pdf\n\nLaatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://ovtools.nl/bestanden/SAN/476.pdf\n\nLaatst bijgewerkt om 12:56 uur op 06-11-2025
 DTEND:20251103T164900Z
 DTSTART:20251103T050100Z
 SUMMARY:G0476
@@ -177,7 +177,7 @@ UID:2025-11-03-G0476@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:Laatst bijgewerkt om 09:54 uur op 06-11-2025
+DESCRIPTION:Laatst bijgewerkt om 12:56 uur op 06-11-2025
 SUMMARY:VRIJ
 UID:2025-11-02-VRIJ@rooster-script.local
 END:VEVENT
