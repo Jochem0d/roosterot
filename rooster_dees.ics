@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-20-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 UID:2025-11-02-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8380.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8380.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251202T153000Z
 DTSTART:20251202T043000Z
 SUMMARY:R8380
 UID:2025-12-02-R8380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/9380.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/9380.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251206T170000Z
 DTSTART:20251206T060000Z
 SUMMARY:R9380
@@ -28,12 +28,12 @@ UID:2025-12-06-R9380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-28-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8280.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8280.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251211T000000Z
 DTSTART:20251210T120000Z
 SUMMARY:R8280
@@ -41,43 +41,43 @@ UID:2025-12-10-R8280@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-24-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-29-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-25-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:snip
 UID:2025-11-05-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-21-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3781.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3781.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251103T090000Z
 DTSTART:20251103T053300Z
 SUMMARY:G0378-1
 UID:2025-11-03-G0378-1@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2793.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2793.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251109T122700Z
 DTSTART:20251109T092700Z
 SUMMARY:P2793
@@ -85,23 +85,23 @@ UID:2025-11-09-P2793@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-17-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
-DESCRIPTION:\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 UID:2025-11-10-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251116
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:VZ
 UID:2025-11-16-VZ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/807.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/807.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251107T223700Z
 DTSTART:20251107T203700Z
 SUMMARY:P0807
@@ -109,43 +109,43 @@ UID:2025-11-07-P0807@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-26-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:VRIJ
 UID:2025-12-08-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251108
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:dagt
 UID:2025-11-08-dagt@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-30-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:VRIJ
 UID:2025-12-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8380.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8380.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251203T153000Z
 DTSTART:20251203T043000Z
 SUMMARY:R8380
 UID:2025-12-03-R8380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/9380.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/9380.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251207T170000Z
 DTSTART:20251207T060000Z
 SUMMARY:R9380
@@ -153,36 +153,43 @@ UID:2025-12-07-R9380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251118
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-18-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
-DESCRIPTION:\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 UID:2025-11-11-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8280.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
+DTEND:20251212T000000Z
+DTSTART:20251211T120000Z
+SUMMARY:R8280
+UID:2025-12-11-R8280@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-14-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251122
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-22-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/497.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/497.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251112T093400Z
 DTSTART:20251112T054000Z
 SUMMARY:P0497
 UID:2025-11-12-P0497@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8780.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/8780.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251201T173000Z
 DTSTART:20251201T043000Z
 SUMMARY:R8780
@@ -190,35 +197,35 @@ UID:2025-12-01-R8780@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:ziek
 UID:2025-11-27-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:VRIJ
 UID:2025-12-09-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:VRIJ
 UID:2025-12-05-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
-DESCRIPTION:\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 UID:2025-11-01-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:dagt
 UID:2025-11-13-dagt@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/497.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/497.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251104T093400Z
 DTSTART:20251104T054000Z
 SUMMARY:P0497
@@ -226,18 +233,18 @@ UID:2025-11-04-P0497@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-19-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251123
-DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 00:41 uur op 20-11-2025
 SUMMARY:osvb
 UID:2025-11-23-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/814.pdf\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/814.pdf\n\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 DTEND:20251115T233000Z
 DTSTART:20251115T213000Z
 SUMMARY:P0814
@@ -245,7 +252,7 @@ UID:2025-11-15-P0814@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
-DESCRIPTION:\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
+DESCRIPTION:\nLaatst bijgewerkt om 00:41 uur op 20-11-2025
 UID:2025-11-06-@rooster-script.local
 END:VEVENT
 END:VCALENDAR
