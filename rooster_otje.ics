@@ -3,40 +3,40 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-11-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/405.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0405\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/405.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0405\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251203T123600Z
 DTSTART:20251203T041100Z
 SUMMARY:V0405
 UID:2025-12-03-V0405@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3722.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3722\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3722.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3722\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251123T235900Z
 DTSTART:20251123T160500Z
 SUMMARY:L3722
 UID:2025-11-23-L3722@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1713.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1713\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1713.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1713\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251108T133200Z
 DTSTART:20251108T061300Z
 SUMMARY:V1713
 UID:2025-11-08-V1713@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1041.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1041\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1041.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1041\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251105T134200Z
 DTSTART:20251105T052300Z
 SUMMARY:V1041
 UID:2025-11-05-V1041@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/804.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/P0804\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/804.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/P0804\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251116T163000Z
 DTSTART:20251116T110000Z
 SUMMARY:P0804
@@ -44,31 +44,31 @@ UID:2025-11-16-P0804@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:snip
 UID:2025-11-17-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251210
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-12-10-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-12-09-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1035.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1035\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1035.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1035\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251103T131300Z
 DTSTART:20251103T051000Z
 SUMMARY:V1035
 UID:2025-11-03-V1035@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2011.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V2011\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2011.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V2011\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251113T123500Z
 DTSTART:20251113T050200Z
 SUMMARY:V2011
@@ -76,12 +76,12 @@ UID:2025-11-13-V2011@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:ATV
 UID:2025-12-01-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2009.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V2009\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/2009.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V2009\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251112T124800Z
 DTSTART:20251112T050200Z
 SUMMARY:V2009
@@ -89,39 +89,39 @@ UID:2025-11-12-V2009@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-11-06-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-11-20-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/7380.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R7380\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/7380.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R7380\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251126T153000Z
 DTSTART:20251126T043000Z
 SUMMARY:R7380
 UID:2025-11-26-R7380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/425.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0425\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/425.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0425\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251128T131100Z
 DTSTART:20251128T045700Z
 SUMMARY:V0425
 UID:2025-11-28-V0425@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/405.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0405\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/405.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V0405\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251127T123600Z
 DTSTART:20251127T041100Z
 SUMMARY:V0405
 UID:2025-11-27-V0405@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/471.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/G0471\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/471.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/G0471\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251202T160900Z
 DTSTART:20251202T043700Z
 SUMMARY:G0471
@@ -129,12 +129,12 @@ UID:2025-12-02-G0471@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-11-09-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/404.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0404\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/404.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0404\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251124T195100Z
 DTSTART:20251124T121000Z
 SUMMARY:L0404
@@ -142,12 +142,12 @@ UID:2025-11-24-L0404@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251118
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:snip
 UID:2025-11-18-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/95.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/code95 theorie in Elst\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/95.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/code95 theorie in Elst\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251104T151500Z
 DTSTART:20251104T071500Z
 SUMMARY:code95 theorie in Elst
@@ -155,58 +155,58 @@ UID:2025-11-04-code95 theorie in Elst@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-11-29-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-12-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-11-01-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-11-25-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3628.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3628\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3628.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3628\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251206T230100Z
 DTSTART:20251206T152000Z
 SUMMARY:L3628
 UID:2025-12-06-L3628@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3718.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3718\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3718.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3718\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251207T235700Z
 DTSTART:20251207T155300Z
 SUMMARY:L3718
 UID:2025-12-07-L3718@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3618.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3618\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3618.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L3618\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251122T213600Z
 DTSTART:20251122T131300Z
 SUMMARY:L3618
 UID:2025-11-22-L3618@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1021.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1021\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1021.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1021\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251107T120800Z
 DTSTART:20251107T045000Z
 SUMMARY:V1021
 UID:2025-11-07-V1021@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/438.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0438\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/438.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0438\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251205T235100Z
 DTSTART:20251205T155100Z
 SUMMARY:L0438
@@ -214,26 +214,26 @@ UID:2025-12-05-L0438@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:snip
 UID:2025-11-19-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1031.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1031\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1031.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1031\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251111T125900Z
 DTSTART:20251111T050300Z
 SUMMARY:V1031
 UID:2025-11-11-V1031@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/428.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0428\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/428.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L0428\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251121T232300Z
 DTSTART:20251121T150500Z
 SUMMARY:L0428
 UID:2025-11-21-L0428@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1017.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1017\n\nLaatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1017.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V1017\n\nLaatst bijgewerkt om 21:35 uur op 19-11-2025
 DTEND:20251110T121500Z
 DTSTART:20251110T044800Z
 SUMMARY:V1017
@@ -241,25 +241,25 @@ UID:2025-11-10-V1017@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:VRIJ
 UID:2025-11-30-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-11-14-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-11-02-uit@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Laatst bijgewerkt om 18:27 uur op 19-11-2025
+DESCRIPTION:Laatst bijgewerkt om 21:35 uur op 19-11-2025
 SUMMARY:uit
 UID:2025-12-08-uit@rooster-script.local
 END:VEVENT
