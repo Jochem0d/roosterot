@@ -1,9 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
-DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
+DESCRIPTION:Je werkt alleen\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
 SUMMARY:VRIJ
 UID:2025-12-14-VRIJ@rooster-script.local
 END:VEVENT
@@ -82,29 +83,23 @@ SUMMARY:ziek
 UID:2025-12-01-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
-SUMMARY:VRIJ
-UID:2025-12-08-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251228
 DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
 SUMMARY:VRIJ
 UID:2025-12-28-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/412.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
+SUMMARY:VRIJ
+UID:2025-12-08-VRIJ@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Geen overlap in pauzes\n\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/412.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
 DTEND:20251212T194300Z
 DTSTART:20251212T123400Z
 SUMMARY:L0412 [13:34 - 20:43]
 UID:2025-12-12-L0412@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
-SUMMARY:VRIJ
-UID:2025-12-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3639.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
@@ -112,6 +107,12 @@ DTEND:20251206T171800Z
 DTSTART:20251206T084900Z
 SUMMARY:T3639 [09:49 - 18:18]
 UID:2025-12-06-T3639@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
+SUMMARY:VRIJ
+UID:2025-12-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3719.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
@@ -159,17 +160,17 @@ SUMMARY:VRIJ
 UID:2025-12-17-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Laatst bijgewerkt om 17:23 uur op 12-12-2025
-SUMMARY:VRIJ
-UID:2025-12-13-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/411.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
+DESCRIPTION:Geen overlap in pauzes\n\nDienstblaadje:\nhttps://test.ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/411.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
 DTEND:20251215T112800Z
 DTSTART:20251215T042700Z
 SUMMARY:V0411 [05:27 - 12:28]
 UID:2025-12-15-V0411@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:Je werkt alleen\n\nLaatst bijgewerkt om 17:23 uur op 12-12-2025
+SUMMARY:VRIJ
+UID:2025-12-13-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251221
