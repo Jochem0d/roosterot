@@ -3,42 +3,48 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-06-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
+SUMMARY:VRIJ
+UID:2026-01-18-VRIJ@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260105
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:dagt
 UID:2026-01-05-dagt@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-02-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251225
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
-SUMMARY:comp
-UID:2025-12-25-comp@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251222
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-22-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
+SUMMARY:comp
+UID:2025-12-25-comp@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260102
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-02-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3643.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3643.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251227T165800Z
 DTSTART:20251227T090900Z
 SUMMARY:D3643 [10:09 - 17:58]
@@ -46,40 +52,40 @@ UID:2025-12-27-D3643@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-10-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/468.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/468.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251219T190300Z
 DTSTART:20251219T112700Z
 SUMMARY:T0468 [12:27 - 20:03]
 UID:2025-12-19-T0468@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/413.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/413.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251218T124900Z
 DTSTART:20251218T042800Z
 SUMMARY:V0413 [05:28 - 13:49]
 UID:2025-12-18-V0413@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/432.pdf\n\nDeze dienst is volgens rooster en is definitief over 6 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/432.pdf\n\nDeze dienst is volgens rooster en is definitief over 5 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260108T231000Z
 DTSTART:20260108T151100Z
 SUMMARY:L0432 [16:11 - 24:10]
 UID:2026-01-08-L0432@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/440.pdf\n\nDeze dienst is volgens rooster en is definitief over 5 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/440.pdf\n\nDeze dienst is volgens rooster en is definitief over 4 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260108T002100Z
 DTSTART:20260107T155600Z
 SUMMARY:L0440 [16:56 - 25:21]
 UID:2026-01-07-L0440@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/431.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/431.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251211T133600Z
 DTSTART:20251211T051100Z
 SUMMARY:V0431 [06:11 - 14:36]
@@ -87,57 +93,51 @@ UID:2025-12-11-V0431@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251207
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-07-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-03-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251223
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-23-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260103
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
-SUMMARY:VRIJ
-UID:2026-01-03-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-11-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3648.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3648.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251214T003400Z
 DTSTART:20251213T163800Z
 SUMMARY:L3648 [17:38 - 25:34]
 UID:2025-12-13-L3648@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/9781.pdf\n\nLet op: Deze dienst is aangepast door de planning en komt over 11 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/9781.pdf\n\nLet op: Deze dienst is aangepast door de planning en komt over 10 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260113T173000Z
 DTSTART:20260113T044500Z
 SUMMARY:!R9781 [05:45 - 18:30]
 UID:2026-01-13-R9781@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/432.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/432.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251215T231000Z
 DTSTART:20251215T151100Z
 SUMMARY:L0432 [16:11 - 24:10]
 UID:2025-12-15-L0432@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/410.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/410.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251205T191100Z
 DTSTART:20251205T123300Z
 SUMMARY:L0410 [13:33 - 20:11]
@@ -145,12 +145,12 @@ UID:2025-12-05-L0410@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-08-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/439.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/439.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251210T133500Z
 DTSTART:20251210T051600Z
 SUMMARY:V0439 [06:16 - 14:35]
@@ -158,25 +158,25 @@ UID:2025-12-10-V0439@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-16-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251228
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-28-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/1483.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/1483.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251229T182300Z
 DTSTART:20251229T065800Z
 SUMMARY:G1483 [07:58 - 19:23]
 UID:2025-12-29-G1483@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3225.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3225.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251231T122000Z
 DTSTART:20251231T045700Z
 SUMMARY:V3225 [05:57 - 13:20]
@@ -184,12 +184,12 @@ UID:2025-12-31-V3225@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-12-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/1451.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/1451.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251224T171000Z
 DTSTART:20251224T084800Z
 SUMMARY:D1451 [09:48 - 18:10]
@@ -197,18 +197,18 @@ UID:2025-12-24-D1451@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-20-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260104
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/436.pdf\n\nDeze dienst is volgens rooster en is definitief over 4 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/436.pdf\n\nDeze dienst is volgens rooster en is definitief over 3 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260106T234600Z
 DTSTART:20260106T152700Z
 SUMMARY:L0436 [16:27 - 24:46]
@@ -216,26 +216,26 @@ UID:2026-01-06-L0436@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-12-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3725.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3725.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251226T171100Z
 DTSTART:20251226T091600Z
 SUMMARY:D3725 [10:16 - 18:11]
 UID:2025-12-26-D3725@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/479.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/479.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251201T164400Z
 DTSTART:20251201T052300Z
 SUMMARY:G0479 [06:23 - 17:44]
 UID:2025-12-01-G0479@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3708.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3708.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251214T235000Z
 DTSTART:20251214T152300Z
 SUMMARY:L3708 [16:23 - 24:50]
@@ -243,45 +243,45 @@ UID:2025-12-14-L3708@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251217
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-17-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:snip
 UID:2025-12-30-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-09-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/468.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/468.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251204T190300Z
 DTSTART:20251204T112700Z
 SUMMARY:T0468 [12:27 - 20:03]
 UID:2025-12-04-T0468@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/403.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/403.pdf\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260116T115800Z
 DTSTART:20260116T041000Z
 SUMMARY:V0403 [05:10 - 12:58]
 UID:2026-01-16-V0403@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/467.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/467.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260114T183700Z
 DTSTART:20260114T114600Z
 SUMMARY:T0467 [12:46 - 19:37]
 UID:2026-01-14-T0467@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/478.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/478.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20251209T171700Z
 DTSTART:20251209T051900Z
 SUMMARY:G0478 [06:19 - 18:17]
@@ -289,12 +289,12 @@ UID:2025-12-09-G0478@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251221
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2025-12-21-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3703.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3703.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260101T144000Z
 DTSTART:20260101T064100Z
 SUMMARY:V3703 [07:41 - 15:40]
@@ -302,12 +302,19 @@ UID:2026-01-01-V3703@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Laatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Laatst bijgewerkt om 01:04 uur op 28-12-2025
 SUMMARY:VRIJ
 UID:2026-01-17-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/459.pdf\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 22:02 uur op 27-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/3606.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
+DTEND:20260103T183600Z
+DTSTART:20260103T121300Z
+SUMMARY:L3606 [13:13 - 19:36]
+UID:2026-01-03-L3606@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Vakantie/459.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 01:04 uur op 28-12-2025
 DTEND:20260115T164100Z
 DTSTART:20260115T082500Z
 SUMMARY:D0459 [09:25 - 17:41]
