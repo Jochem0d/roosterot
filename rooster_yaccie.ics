@@ -2,349 +2,150 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251214
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-14-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:VRIJ
 UID:2026-01-06-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3708.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251225T235000Z
-DTSTART:20251225T152300Z
-SUMMARY:L3708 [16:23 - 24:50]
-UID:2025-12-25-L3708@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/418.pdf\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/418.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260119T211400Z
 DTSTART:20260119T125700Z
 SUMMARY:L0418 [13:57 - 22:14]
 UID:2026-01-19-L0418@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2026-01-10-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:ATV
 UID:2026-01-12-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/466.pdf\n\nDeze dienst is volgens rooster en is definitief over 2 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
+SUMMARY:VRIJ
+UID:2026-01-10-VRIJ@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/466.pdf\n\nDeze dienst is volgens rooster en is definitief over 1 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260108T182300Z
 DTSTART:20260108T111800Z
 SUMMARY:T0466 [12:18 - 19:23]
 UID:2026-01-08-T0466@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/457.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/457.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260121T161800Z
 DTSTART:20260121T075900Z
 SUMMARY:D0457 [08:59 - 17:18]
 UID:2026-01-21-D0457@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3645.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3645.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260103T165100Z
 DTSTART:20260103T102400Z
 SUMMARY:D3645 [11:24 - 17:51]
 UID:2026-01-03-D3645@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3638.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3638.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260118T000000Z
 DTSTART:20260117T155400Z
 SUMMARY:L3638 [16:54 - 25:00]
 UID:2026-01-17-L3638@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3255.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251231T134500Z
-DTSTART:20251231T052700Z
-SUMMARY:V3255 [06:27 - 14:45]
-UID:2025-12-31-V3255@rooster-script.local
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/421.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
+DTEND:20260107T130500Z
+DTSTART:20260107T044100Z
+SUMMARY:V0421 [05:41 - 14:05]
+UID:2026-01-07-V0421@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/421.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/421.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260105T130500Z
 DTSTART:20260105T044100Z
 SUMMARY:V0421 [05:41 - 14:05]
 UID:2026-01-05-V0421@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1425.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251229T131500Z
-DTSTART:20251229T050300Z
-SUMMARY:V1425 [06:03 - 14:15]
-UID:2025-12-29-V1425@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251227
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-27-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1401.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1401.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260102T122900Z
 DTSTART:20260102T041100Z
 SUMMARY:V1401 [05:11 - 13:29]
 UID:2026-01-02-V1401@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1424.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251224T232300Z
-DTSTART:20251224T150400Z
-SUMMARY:L1424 [16:04 - 24:23]
-UID:2025-12-24-L1424@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:VRIJ
 UID:2026-01-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:VRIJ
 UID:2026-01-11-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/436.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251210T234600Z
-DTSTART:20251210T152700Z
-SUMMARY:L0436 [16:27 - 24:46]
-UID:2025-12-10-L0436@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/444.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251211T235900Z
-DTSTART:20251211T155800Z
-SUMMARY:L0444 [16:58 - 24:59]
-UID:2025-12-11-L0444@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1420.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251223T222800Z
-DTSTART:20251223T141800Z
-SUMMARY:L1420 [15:18 - 23:28]
-UID:2025-12-23-L1420@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/449.pdf\n\nDeze dienst is volgens rooster en is definitief over 3 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/449.pdf\n\nDeze dienst is volgens rooster en is definitief over 2 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260109T135200Z
 DTSTART:20260109T052700Z
 SUMMARY:V0449 [06:27 - 14:52]
 UID:2026-01-09-V0449@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:snip
-UID:2025-12-09-snip@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3619.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251220T143800Z
-DTSTART:20251220T062400Z
-SUMMARY:V3619 [07:24 - 15:38]
-UID:2025-12-20-V3619@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1409.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251230T123600Z
-DTSTART:20251230T043300Z
-SUMMARY:V1409 [05:33 - 13:36]
-UID:2025-12-30-V1409@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:ziek
-UID:2025-12-01-ziek@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-08-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251228
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-28-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/412.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251212T194300Z
-DTSTART:20251212T123400Z
-SUMMARY:L0412 [13:34 - 20:43]
-UID:2025-12-12-L0412@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-04-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3639.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251206T171800Z
-DTSTART:20251206T084900Z
-SUMMARY:T3639 [09:49 - 18:18]
-UID:2025-12-06-T3639@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/440.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/440.pdf\n\nDeze dienst is volgens rooster en is definitief over 9 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260117T002100Z
 DTSTART:20260116T155600Z
 SUMMARY:L0440 [16:56 - 25:21]
 UID:2026-01-16-L0440@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3719.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251207T162300Z
-DTSTART:20251207T080200Z
-SUMMARY:D3719 [09:02 - 17:23]
-UID:2025-12-07-D3719@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251226
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:ATV
-UID:2025-12-26-ATV@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/7380.pdf\n\nLet op: Deze dienst is aangepast door de planning en komt over 1 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20260107T153000Z
-DTSTART:20260107T043000Z
-SUMMARY:!R7380 [05:30 - 16:30]
-UID:2026-01-07-R7380@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3721.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20260104T162300Z
-DTSTART:20260104T081600Z
-SUMMARY:D3721 [09:16 - 17:23]
-UID:2026-01-04-D3721@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/420.pdf\n\nLet op: Deze dienst is aangepast door de planning en komt over 7 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/420.pdf\n\nLet op: Deze dienst is aangepast door de planning en komt over 6 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260113T192000Z
 DTSTART:20260113T131100Z
 SUMMARY:!L0420 [14:11 - 20:20]
 UID:2026-01-13-L0420@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/418.pdf\n\nDeze dienst is volgens rooster en is definitief over 8 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3721.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
+DTEND:20260104T162300Z
+DTSTART:20260104T081600Z
+SUMMARY:D3721 [09:16 - 17:23]
+UID:2026-01-04-D3721@rooster-script.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/418.pdf\n\nDeze dienst is volgens rooster en is definitief over 7 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260114T211400Z
 DTSTART:20260114T125700Z
 SUMMARY:L0418 [13:57 - 22:14]
 UID:2026-01-14-L0418@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/475.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251218T162400Z
-DTSTART:20251218T045900Z
-SUMMARY:G0475 [05:59 - 17:24]
-UID:2025-12-18-G0475@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:VRIJ
 UID:2026-01-20-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/451.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251219T141900Z
-DTSTART:20251219T055600Z
-SUMMARY:V0451 [06:56 - 15:19]
-UID:2025-12-19-V0451@rooster-script.local
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/409.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
+DTEND:20260122T121900Z
+DTSTART:20260122T042300Z
+SUMMARY:V0409 [05:23 - 13:19]
+UID:2026-01-22-V0409@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3730.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3730.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 02:03 uur op 01-01-2026
 DTEND:20260118T235700Z
 DTSTART:20260118T170900Z
 SUMMARY:L3730 [18:09 - 24:57]
 UID:2026-01-18-L3730@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/403.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251216T115800Z
-DTSTART:20251216T041000Z
-SUMMARY:V0403 [05:10 - 12:58]
-UID:2025-12-16-V0403@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251217
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-17-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-13-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/411.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251215T112800Z
-DTSTART:20251215T042700Z
-SUMMARY:V0411 [05:27 - 12:28]
-UID:2025-12-15-V0411@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
-SUMMARY:VRIJ
-UID:2025-12-21-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/1413.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251222T105000Z
-DTSTART:20251222T044600Z
-SUMMARY:V1413 [05:46 - 11:50]
-UID:2025-12-22-V1413@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
-DESCRIPTION:Laatst bijgewerkt om 23:02 uur op 31-12-2025
+DESCRIPTION:Laatst bijgewerkt om 02:03 uur op 01-01-2026
 SUMMARY:VRIJ
 UID:2026-01-01-VRIJ@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/403.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251202T115800Z
-DTSTART:20251202T041000Z
-SUMMARY:V0403 [05:10 - 12:58]
-UID:2025-12-02-V0403@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/464.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251203T181400Z
-DTSTART:20251203T095000Z
-SUMMARY:T0464 [10:50 - 19:14]
-UID:2025-12-03-T0464@rooster-script.local
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/477.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 23:02 uur op 31-12-2025
-DTEND:20251205T171000Z
-DTSTART:20251205T051800Z
-SUMMARY:G0477 [06:18 - 18:10]
-UID:2025-12-05-G0477@rooster-script.local
 END:VEVENT
 END:VCALENDAR
