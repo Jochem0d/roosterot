@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-15-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-11-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/498.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/498.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 DTEND:20260108T184400Z
 DTSTART:20260108T132000Z
 SUMMARY:P0498 [14:20 - 19:44]
@@ -22,41 +22,41 @@ UID:2026-01-08-P0498@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:osvb
 UID:2026-01-23-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-16-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-24-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-12-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-20-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260105
-DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 UID:2026-01-05-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/262111306.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/262111306.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 DTEND:20260103T121700Z
 DTSTART:20260103T063800Z
 SUMMARY:V2621-1 tot 13.06 [07:38 - 13:17]
@@ -64,42 +64,42 @@ UID:2026-01-03-V2621-1 tot 13.06@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
-DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 UID:2026-01-01-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-17-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-25-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-13-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-21-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3791.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/3791.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 DTEND:20260104T105300Z
 DTSTART:20260104T070100Z
 SUMMARY:P3791 [08:01 - 11:53]
 UID:2026-01-04-P3791@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/498.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Dienstblaadje:\nhttps://ovtools.nl/Diensten/Diensten_PDF/Arnhem-Bemmel/498.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 DTEND:20260107T184400Z
 DTSTART:20260107T132000Z
 SUMMARY:P0498 [14:20 - 19:44]
@@ -107,53 +107,53 @@ UID:2026-01-07-P0498@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
-DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 UID:2026-01-06-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:osvb
 UID:2026-01-09-osvb@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260102
-DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 03:34 uur op 05-01-2026
 UID:2026-01-02-@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-18-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-26-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-14-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-22-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-10-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
-DESCRIPTION:Laatst bijgewerkt om 00:33 uur op 05-01-2026
+DESCRIPTION:Laatst bijgewerkt om 03:34 uur op 05-01-2026
 SUMMARY:ziek
 UID:2026-01-19-ziek@rooster-script.local
 END:VEVENT
