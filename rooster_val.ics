@@ -3,133 +3,133 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-02-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-10-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-19-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-07-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-15-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-03-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-11-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-08-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-16-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-04-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-12-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-20-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-09-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-17-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-05-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-13-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-01-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-21-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-18-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-06-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-14-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
-DESCRIPTION:Laatst bijgewerkt om 17:11 uur op 01-02-2026
+DESCRIPTION:Laatst bijgewerkt om 20:15 uur op 01-02-2026
 SUMMARY:ziek
 UID:2026-02-22-ziek@rooster-script.local
 END:VEVENT
