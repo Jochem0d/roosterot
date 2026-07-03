@@ -3,145 +3,145 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-18-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-06-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-14-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-02-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-10-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/23.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/23.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:23
 UID:2026-07-23-23@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/22.pdf\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/22.pdf\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:22
 UID:2026-07-22-22@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-07-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-15-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-03-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-11-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/21.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/21.pdf\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:21
 UID:2026-07-21-21@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-08-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-16-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260720
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/20.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/20.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:20
 UID:2026-07-20-20@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-04-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-12-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/19.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/19.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:19
 UID:2026-07-19-19@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-09-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-17-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-05-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-13-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
-DESCRIPTION:Laatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Laatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:ziek
 UID:2026-07-01-ziek@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/24.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 16:47 uur op 03-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/24.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 19:48 uur op 03-07-2026
 SUMMARY:24
 UID:2026-07-24-24@rooster-script.local
 END:VEVENT
