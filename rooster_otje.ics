@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5218.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5218\n\nDeze dienst is volgens rooster en is definitief over 6 dagen\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5218.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5218\n\nDeze dienst is volgens rooster en is definitief over 6 dagen\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260722T233300Z
 DTSTART:20260722T162900Z
 SUMMARY:L5218 [18:29 - 25:33]
@@ -10,12 +10,12 @@ UID:2026-07-22-L5218@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:snip
 UID:2026-07-14-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5055.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/D5055\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5055.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/D5055\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260716T160000Z
 DTSTART:20260716T075700Z
 SUMMARY:D5055 [09:57 - 18:00]
@@ -23,18 +23,18 @@ UID:2026-07-16-D5055@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-25-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260720
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:dagt
 UID:2026-07-20-dagt@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8780.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8780\n\nLet op: Deze dienst is aangepast door de planning en komt over 2 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8780.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8780\n\nLet op: Deze dienst is aangepast door de planning en komt over 2 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260718T163000Z
 DTSTART:20260718T033000Z
 SUMMARY:!R8780 [05:30 - 18:30]
@@ -42,49 +42,49 @@ UID:2026-07-18-R8780@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:snip
 UID:2026-07-27-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:dagt
 UID:2026-07-09-dagt@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-26-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-06-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:ATV
 UID:2026-07-10-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-30-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5042.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5042\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5042.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5042\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260731T230600Z
 DTSTART:20260731T144900Z
 SUMMARY:L5042 [16:49 - 25:06]
 UID:2026-07-31-L5042@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5028.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5028\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5028.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5028\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260707T213300Z
 DTSTART:20260707T130900Z
 SUMMARY:L5028 [15:09 - 23:33]
@@ -92,19 +92,19 @@ UID:2026-07-07-L5028@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:snip
 UID:2026-07-28-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5010.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5010\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5010.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5010\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260701T185900Z
 DTSTART:20260701T112600Z
 SUMMARY:L5010 [13:26 - 20:59]
 UID:2026-07-01-L5010@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/9380.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R9380\n\nLet op: Deze dienst is aangepast door de planning en komt over 1 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/9380.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R9380\n\nLet op: Deze dienst is aangepast door de planning en komt over 1 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260717T160000Z
 DTSTART:20260717T050000Z
 SUMMARY:!R9380 [07:00 - 18:00]
@@ -112,26 +112,26 @@ UID:2026-07-17-R9380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-19-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8280.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8280\n\nLet op: Deze dienst is aangepast door de planning en komt over 5 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8280.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8280\n\nLet op: Deze dienst is aangepast door de planning en komt over 5 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260721T230000Z
 DTSTART:20260721T110000Z
 SUMMARY:!R8280 [13:00 - 25:00]
 UID:2026-07-21-R8280@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5725.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/D5725\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5725.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/D5725\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260705T160700Z
 DTSTART:20260705T085600Z
 SUMMARY:D5725 [10:56 - 18:07]
 UID:2026-07-05-D5725@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8280.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8280\n\nLet op: Deze dienst is aangepast door de planning en komt over 7 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8280.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/R8280\n\nLet op: Deze dienst is aangepast door de planning en komt over 7 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260723T230000Z
 DTSTART:20260723T110000Z
 SUMMARY:!R8280 [13:00 - 25:00]
@@ -139,18 +139,18 @@ UID:2026-07-23-R8280@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-03-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5024.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5024\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5024.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5024\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260702T204800Z
 DTSTART:20260702T124400Z
 SUMMARY:L5024 [14:44 - 22:48]
@@ -158,12 +158,12 @@ UID:2026-07-02-L5024@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-11-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5214.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5214\n\nDeze dienst is volgens rooster en is definitief over 8 dagen\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5214.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L5214\n\nDeze dienst is volgens rooster en is definitief over 8 dagen\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260724T225800Z
 DTSTART:20260724T145600Z
 SUMMARY:L5214 [16:56 - 24:58]
@@ -171,18 +171,18 @@ UID:2026-07-24-L5214@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:snip
 UID:2026-07-29-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:snip
 UID:2026-07-13-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/6006.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L6006\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/6006.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/L6006\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260708T181100Z
 DTSTART:20260708T110200Z
 SUMMARY:L6006 [13:02 - 20:11]
@@ -190,12 +190,12 @@ UID:2026-07-08-L6006@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
-DESCRIPTION:Laatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Laatst bijgewerkt om 14:31 uur op 10-07-2026
 SUMMARY:VRIJ
 UID:2026-07-12-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5509.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V5509\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 11:30 uur op 10-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/5509.pdf\n\nDienstblaadje EHV:\nhttps://shifts.bussie.app/V5509\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:31 uur op 10-07-2026
 DTEND:20260704T130600Z
 DTSTART:20260704T044200Z
 SUMMARY:V5509 [06:42 - 15:06]
