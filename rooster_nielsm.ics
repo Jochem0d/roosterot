@@ -3,42 +3,42 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-16-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:snip
 UID:2026-08-05-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-19-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-12-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-05-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-07-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3010.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3010.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260729T191200Z
 DTSTART:20260729T112400Z
 SUMMARY:L3010 [13:24 - 21:12]
@@ -46,19 +46,19 @@ UID:2026-07-29-L3010@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-11-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3115.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3115.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260702T170900Z
 DTSTART:20260702T051700Z
 SUMMARY:G3115 [07:17 - 19:09]
 UID:2026-07-02-G3115@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3602.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3602.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260725T181300Z
 DTSTART:20260725T104500Z
 SUMMARY:T3602 [12:45 - 20:13]
@@ -66,18 +66,18 @@ UID:2026-07-25-T3602@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-14-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-26-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3792.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3792.pdf\n\nDeze dienst is volgens rooster en is definitief over 10 dagen\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260809T151500Z
 DTSTART:20260809T105400Z
 SUMMARY:P3792 [12:54 - 17:15]
@@ -85,31 +85,31 @@ UID:2026-08-09-P3792@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-01-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-17-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-22-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3202.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3202.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260701T180800Z
 DTSTART:20260701T104000Z
 SUMMARY:T3202 [12:40 - 20:08]
 UID:2026-07-01-T3202@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/1129.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/1129.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260720T154200Z
 DTSTART:20260720T044100Z
 SUMMARY:G1129 [06:41 - 17:42]
@@ -117,18 +117,18 @@ UID:2026-07-20-G1129@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-08-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:snip
 UID:2026-08-07-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/308.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/308.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260724T184900Z
 DTSTART:20260724T111000Z
 SUMMARY:L0308 [13:10 - 20:49]
@@ -136,24 +136,24 @@ UID:2026-07-24-L0308@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-12-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-06-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-02-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3022.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3022.pdf\n\nDeze dienst is volgens rooster en is definitief over 14 dagen\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260813T230900Z
 DTSTART:20260813T142800Z
 SUMMARY:L3022 [16:28 - 25:09]
@@ -161,45 +161,45 @@ UID:2026-08-13-L3022@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-23-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-31-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-15-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3028.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3028.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260728T234400Z
 DTSTART:20260728T151000Z
 SUMMARY:L3028 [17:10 - 25:44]
 UID:2026-07-28-L3028@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3203.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3203.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260721T113800Z
 DTSTART:20260721T031600Z
 SUMMARY:V3203 [05:16 - 13:38]
 UID:2026-07-21-V3203@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8780.pdf\n\nDeze dienst is volgens rooster en is definitief over 9 dagen\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/8780.pdf\n\nDeze dienst is volgens rooster en is definitief over 9 dagen\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260808T163000Z
 DTSTART:20260808T033000Z
 SUMMARY:R8780 [05:30 - 18:30]
 UID:2026-08-08-R8780@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3113.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3113.pdf\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260810T155900Z
 DTSTART:20260810T044900Z
 SUMMARY:G3113 [06:49 - 17:59]
@@ -207,24 +207,24 @@ UID:2026-08-10-G3113@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-18-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-06-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:snip
 UID:2026-08-04-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3026.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3026.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260703T233500Z
 DTSTART:20260703T145500Z
 SUMMARY:L3026 [16:55 - 25:35]
@@ -232,49 +232,49 @@ UID:2026-07-03-L3026@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-10-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-09-vak@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-03-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-07-04-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:ATV
 UID:2026-07-30-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:VRIJ
 UID:2026-08-11-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3006.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3006.pdf\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260727T190200Z
 DTSTART:20260727T104500Z
 SUMMARY:T3006 [12:45 - 21:02]
 UID:2026-07-27-T3006@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3291.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Dienstblaadje:\nhttps://dienstenopslag.ribbon-karat.ts.net/3291.pdf\n\nDeze dienst is volgens rooster en is definitief over 15 dagen\n\nLaatst bijgewerkt om 13:15 uur op 24-07-2026
 DTEND:20260814T183900Z
 DTSTART:20260814T131500Z
 SUMMARY:P3291 [15:15 - 20:39]
@@ -282,7 +282,7 @@ UID:2026-08-14-P3291@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Laatst bijgewerkt om 10:14 uur op 24-07-2026
+DESCRIPTION:Laatst bijgewerkt om 13:15 uur op 24-07-2026
 SUMMARY:vak
 UID:2026-07-13-vak@rooster-script.local
 END:VEVENT
