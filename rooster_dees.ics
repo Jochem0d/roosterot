@@ -3,50 +3,50 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260919
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-19-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:snip
 UID:2026-09-12-snip@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-15-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:osvo
 UID:2026-09-04-osvo@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-11-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 11 dagen\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260921T143000Z
 DTSTART:20260921T033000Z
 SUMMARY:R8380 [05:30 - 16:30]
 UID:2026-09-21-R8380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 13 dagen\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260923T143000Z
 DTSTART:20260923T033000Z
 SUMMARY:R8380 [05:30 - 16:30]
 UID:2026-09-23-R8380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/9380/img\n\nLet op: Deze dienst is aangepast door de planning en komt over 3 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/9380/img\n\nLet op: Deze dienst is aangepast door de planning en komt over 3 dagen definitief beschikbaar\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260913T160000Z
 DTSTART:20260913T050000Z
 SUMMARY:!R9380 [07:00 - 18:00]
@@ -54,18 +54,18 @@ UID:2026-09-13-R9380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-24-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-20-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8280/img\n\nDeze dienst is volgens rooster en is definitief over 7 dagen\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8280/img\n\nDeze dienst is volgens rooster en is definitief over 7 dagen\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260917T230000Z
 DTSTART:20260917T110000Z
 SUMMARY:R8280 [13:00 - 25:00]
@@ -73,44 +73,44 @@ UID:2026-09-17-R8280@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:osvo
 UID:2026-09-18-osvo@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-05-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-25-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-01-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/3023/img\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/3023/img\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260909T142200Z
 DTSTART:20260909T060800Z
 SUMMARY:V3023 [08:08 - 16:22]
 UID:2026-09-09-V3023@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8380/img\n\nDeze dienst is volgens rooster en is definitief over 12 dagen\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260922T143000Z
 DTSTART:20260922T033000Z
 SUMMARY:R8380 [05:30 - 16:30]
 UID:2026-09-22-R8380@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/3025/img\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/3025/img\n\nDit is een dienst in de dagplanning\, wijzigingen zijn direct zichtbaar\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260907T150600Z
 DTSTART:20260907T064400Z
 SUMMARY:D3025 [08:44 - 17:06]
@@ -118,36 +118,36 @@ UID:2026-09-07-D3025@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-06-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260914
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-14-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260902
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-02-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:VRIJ
 UID:2026-09-10-VRIJ@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:ATV
 UID:2026-09-03-ATV@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8280/img\n\nDeze dienst is volgens rooster en is definitief over 6 dagen\n\nLaatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Dienstblaadje:\nhttps://bus-tracking-api.azurewebsites.net/ovtools/8280/img\n\nDeze dienst is volgens rooster en is definitief over 6 dagen\n\nLaatst bijgewerkt om 17:38 uur op 04-09-2026
 DTEND:20260916T230000Z
 DTSTART:20260916T110000Z
 SUMMARY:R8280 [13:00 - 25:00]
@@ -155,7 +155,7 @@ UID:2026-09-16-R8280@rooster-script.local
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
-DESCRIPTION:Laatst bijgewerkt om 14:36 uur op 04-09-2026
+DESCRIPTION:Laatst bijgewerkt om 17:38 uur op 04-09-2026
 SUMMARY:snip
 UID:2026-09-08-snip@rooster-script.local
 END:VEVENT
